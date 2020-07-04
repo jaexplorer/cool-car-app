@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders component 1`] = `
+<div>
+  <div
+    class="sc-AxjAm lbUieI"
+  >
+    <div
+      class="sc-AxirZ ktnnZK"
+    >
+      <div
+        class="sc-AxiKw dalhzh"
+      >
+        Ferrari
+      </div>
+      <div
+        class="sc-AxhCb fkygdt"
+      >
+        This car is a really cool and special car, it can out perform and out race most cars it goes up against
+      </div>
+    </div>
+    <div
+      class="sc-AxhUy dJjEvc"
+    >
+      <img
+        class="sc-AxgMl hFGewL"
+        src="ferrari.png"
+      />
+    </div>
+    <div
+      class="sc-AxheI gvAUVX"
+    >
+      <div
+        class="sc-Axmtr hpBAIA"
+      >
+        Purchased Price
+      </div>
+      <div
+        class="sc-AxmLO MKJBh"
+      >
+        <div
+          class="sc-fzozJi iNyDqx"
+        >
+          $
+          859,999
+        </div>
+        <div
+          class="sc-fznZeY jvmzMU"
+        >
+          <div
+            class="sc-fzokOt fgdisJ"
+          />
+          <div
+            class="sc-fzqBZW hmnnPv"
+          >
+            -
+            23
+            %
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-fzoLsD fkFrce"
+      >
+        By 
+        Andrew Sabato
+         from 
+        Johns Motors
+      </div>
+    </div>
+    <div
+      class="sc-fzpans kLztrW"
+    >
+      <div
+        class="sc-fzplWN jvDksI"
+      >
+        <div
+          class="sc-fznyAO fuoAFY"
+        >
+          Top Speed
+        </div>
+        <div
+          class="sc-fznKkj fAyXvN"
+        >
+          170
+          km/hr
+        </div>
+      </div>
+      <div
+        class="sc-fzplWN jvDksI"
+      >
+        <div
+          class="sc-fznyAO fuoAFY"
+        >
+          Range
+        </div>
+        <div
+          class="sc-fznKkj fAyXvN"
+        >
+          680
+          kms
+        </div>
+      </div>
+      <div
+        class="sc-fzplWN jvDksI"
+      >
+        <div
+          class="sc-fznyAO fuoAFY"
+        >
+          Current Value
+        </div>
+        <div
+          class="sc-fznKkj fAyXvN"
+        >
+          $
+          739,999
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-fzqNJr cyQyir"
+      style="position: absolute; bottom: 4rem; right: 0px; width: 3rem; height: 3rem; border-radius: 10px;"
+    >
+      <img
+        class="sc-fzoyAV uzPCF"
+        src="remove.png"
+        style="width: 1.5rem; height: 1.5rem;"
+      />
+    </div>
+  </div>
+</div>
+`;
